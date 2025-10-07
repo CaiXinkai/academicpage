@@ -19,15 +19,15 @@ I am a Master's student at the School of Life Sciences, [Xiamen University](http
 # Independent scholarly project
 <p>Integrative Bioinformatics Dissects an IRF1-Driven Hub-Gene Network Orchestrating Neutrophilic Inflammation in Human Lung Ischemia-Reperfusion Injury</p>
 <div style="text-align:center;">
-  <img src="images/IRI.png" alt="PeGRAS gene model and expression heatmap" style="max-width:600px;width:50%;">
+  <img src="images/IRI.png" alt="PeGRAS gene model and expression heatmap" style="max-width:600px;width:80%;">
 </div>
 <br>
 <p>Cholesterol-like Pocket Discovery in Aeromonas hydrophila AcrB: A Structure-Omics-Guided Target Repositioning Study via Cross-Species Alignment and Docking</p>
 <div style="text-align:center;">
-  <img src="images/AcrB.png" alt="PeGRAS gene model and expression heatmap" style="max-width:600px;width:70%;">
+  <img src="images/AcrB.png" alt="PeGRAS gene model and expression heatmap" style="max-width:600px;width:80%;">
 </div>
 <br>
 <p>Multidimensional Dissection of the V-ulence Mechanism, Regulatory Circuitry, and Evolutionary Trajectory of <i>Halomonas elongata</i> Hemolysin A (TlyA)</p>
 <div style="text-align:center;">
-  <img src="images/TLYA.png" alt="TLYA gene model and expression heatmap" style="max-width:600px;width:70%;">
+  <img src="images/TLYA.png" alt="TLYA gene model and expression heatmap" style="max-width:600px;width:80%;">
 </div>
