@@ -27,7 +27,7 @@ I am a Master's student at the School of Life Sciences, [Xiamen University](http
   <img src="images/AcrB.png" alt="PeGRAS gene model and expression heatmap" style="max-width:600px;width:80%;">
 </div>
 <br>
-<p>Multidimensional Dissection of the V-ulence Mechanism, Regulatory Circuitry, and Evolutionary Trajectory of <i>Halomonas elongata</i> Hemolysin A (TlyA)</p>
+<p>Multidimensional Dissection of the Virulence Mechanism, Regulatory Circuitry, and Evolutionary Trajectory of <i>Halomonas elongata</i> Hemolysin A (TlyA)</p>
 <div style="text-align:center;">
   <img src="images/TLYA.png" alt="TLYA gene model and expression heatmap" style="max-width:600px;width:80%;">
 </div>
