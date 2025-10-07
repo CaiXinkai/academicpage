@@ -12,4 +12,4 @@ I am a Master's student at the School of Life Sciences, [Xiamen University](http
 # Highlight research  
 Identification and characterization of GRAS genes in passion fruit (*Passiflora edulis Sims*) revealed their roles in development regulation and stress response  
 
-<img src="/images/PeGRAS.png" alt="PeGRAS" width="900" style="display:block;margin:auto;">
+<img src="/_pages/PeGRAS.png" alt="PeGRAS" width="900" style="display:block;margin:auto;">
