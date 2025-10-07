@@ -15,3 +15,4 @@ Identification and characterization of _GRAS_ genes in passion fruit (*Passiflor
 # Independent scholarly project
 <p>A Study on Potential Therapeutic Targets for Lung Ischemia-Reperfusion Injury (IRI) Based on GEO Database Analysis</p>
 <p>Structure-Alignment-Based Drug Screening and Docking of the AcrB Transporter</p>
+<p>Multidimensional Dissection of the V-ulence Mechanism, Regulatory Circuitry, and Evolutionary Trajectory of _Halomonas elongata_ Hemolysin A (TlyA)</p>
