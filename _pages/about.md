@@ -13,6 +13,6 @@ I am a Master's student at the School of Life Sciences, [Xiamen University](http
 Identification and characterization of _GRAS_ genes in passion fruit (*Passiflora edulis Sims*) revealed their roles in development regulation and stress response  
 
 # Independent scholarly project
-<p>A Study on Potential Therapeutic Targets for Lung Ischemia-Reperfusion Injury (IRI) Based on GEO Database Analysis</p>
+<p>Integrative Bioinformatics Dissects an IRF1-Driven Hub-Gene Network Orchestrating Neutrophilic Inflammation in Human Lung Ischemia-Reperfusion Injury</p>
 <p>Cholesterol-like Pocket Discovery in Aeromonas hydrophila AcrB: A Structure-Omics-Guided Target Repositioning Study via Cross-Species Alignment and Docking</p>
 <p>Multidimensional Dissection of the V-ulence Mechanism, Regulatory Circuitry, and Evolutionary Trajectory of <i>Halomonas elongata</i> Hemolysin A (TlyA)</p>
