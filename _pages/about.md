@@ -7,10 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Master's student at the School of Life Sciences, [Xiamen University](https://www.xmu.edu.cn/). My research interests encompass bioinformatics and computational biology. During my undergraduate studies at [the Center of Genomics and Biotechnology](https://genome.fafu.edu.cn/), Haixia Institute of Science and Technology, [Fujian Agriculture and Forestry University](https://www.fafu.edu.cn/), I focused on multi-omics analyses and evolutionary genomics. I am currently based at the Fujian Provincial Key Laboratory of Drug Target Discovery, where I apply computational approaches to dissect the roles of epigenetic regulators in cancer and to facilitate rational drug design.
+I am a Master's student at the School of Life Sciences, [Xiamen University](https://www.xmu.edu.cn/ ). My research interests encompass bioinformatics and computational biology. During my undergraduate studies at [the Center of Genomics and Biotechnology](https://genome.fafu.edu.cn/ ), Haixia Institute of Science and Technology, [Fujian Agriculture and Forestry University](https://www.fafu.edu.cn/ ), I focused on multi-omics analyses and evolutionary genomics. I am currently based at the Fujian Provincial Key Laboratory of Drug Target Discovery, where I apply computational approaches to dissect the roles of epigenetic regulators in cancer and to facilitate rational drug design.
 
-# <strong>Highlight research</strong>
-<br />
-Identification and characterization of GRAS genes in passion fruit (<i>Passiflora edulis Sims</i>) revealed their roles in development regulation and stress response
-<br />
-<img src="/_pages/PeGRAS.png" alt="avatar" width="300" style="display:block;margin:auto;">
+# Highlight research  
+Identification and characterization of GRAS genes in passion fruit (*Passiflora edulis Sims*) revealed their roles in development regulation and stress response  
+
+&lt;img src="/assets/images/PeGRAS.png" alt="PeGRAS" width="300" style="display:block;margin:auto;"&gt;
