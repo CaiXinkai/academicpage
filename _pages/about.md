@@ -11,7 +11,7 @@ I am a Master's student at the School of Life Sciences, [Xiamen University](http
 
 # Highlight research  
 <p>Identification and characterization of _GRAS_ genes in passion fruit (<i>Passiflora edulis Sims</i>) revealed their roles in development regulation and stress response</p>
-![PeGRAS gene model and expression heatmap](/images/PeGRAS.png)
+![PeGRAS gene model and expression heatmap](images/PeGRAS.png)
 
 # Independent scholarly project
 <p>Integrative Bioinformatics Dissects an IRF1-Driven Hub-Gene Network Orchestrating Neutrophilic Inflammation in Human Lung Ischemia-Reperfusion Injury</p>
