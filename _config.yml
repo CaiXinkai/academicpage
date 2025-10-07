@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "🧬 Exploring the intersection of biology and data 🔬"
   location         : "Xiamen, Fujian"
-  employer         : "Xiamen University"
+  employer         : #"Xiamen University"
   uri              : # URL
   email            : "caixinkai2003@163.com" 
 
