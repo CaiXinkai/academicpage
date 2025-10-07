@@ -4,8 +4,7 @@ title: Publications
 permalink: /pubs/
 ---
 
-[10]. Zheng P, Wu J, Li D, Xie S, **Cai X**, Xiao Q, et al. Comparative Metabolomics Analysis of Four Pineapple (_Ananas comosus_ L. Merr) Varieties with Different Fruit Quality. Plants (Basel). 2025;14(15).  
-   [HTTP](https://doi.org/10.3390/plants14152400)
+[10]. Zheng P, Wu J, Li D, Xie S, **Cai X**, Xiao Q, et al. Comparative Metabolomics Analysis of Four Pineapple (_Ananas comosus_ L. Merr) Varieties with Different Fruit Quality. Plants (Basel). 2025;14(15). [HTTP](https://doi.org/10.3390/plants14152400)
 
 [9]. **Cai X#**, Li D#, Liu C#, Chen J, Wei X, Hu S, et al. Identification and characterization of _GRAS_ genes in passion fruit (_Passiflora edulis_ Sims) revealed their roles in development regulation and stress response. Plant Cell Reports. 2025;44(2).
    [HTTP](https://doi.org/10.1007/s00299-025-03432-x)
