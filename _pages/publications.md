@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Publications
-permalink: /publications/
+permalink: /
 ---
 
 [7]. Zheng P, Wu J, Li D, Xie S, **Cai X**, Xiao Q, et al. Comparative Metabolomics Analysis of Four Pineapple (_Ananas comosus_ L. Merr) Varieties with Different Fruit Quality. Plants (Basel). 2025;14(15).  
